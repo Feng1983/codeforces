@@ -1,3 +1,0 @@
-/Users/user/codebase/codeforce/822div2/build/CMakeFiles/822div2.dir
-/Users/user/codebase/codeforce/822div2/build/CMakeFiles/edit_cache.dir
-/Users/user/codebase/codeforce/822div2/build/CMakeFiles/rebuild_cache.dir
