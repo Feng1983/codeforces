@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.2.4 FATAL_ERROR)
+project(822div2)
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+add_executable(822div2 main.cpp)
+target_include_directories(822div2 PUBLIC ../allhead/)

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/user/codebase/codeforce/822div2/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/user/codebase/codeforce/822div2/../allhead  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -std=gnu++17 -o CMakeFiles/822div2.dir/main.cpp.o -c /Users/user/codebase/codeforce/822div2/build/main.cpp",
+  "file": "/Users/user/codebase/codeforce/822div2/build/main.cpp"
+}
+]
